@@ -34,6 +34,13 @@ Initially, I obtained the time series plot depicted in the graph below.
 
 Step 2: I discovered the Augmented Dickey-Fuller (ADF) test.
 
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/ADF%20Test%20for%20CBN.JPG)
+
+Observation: After scrutinizing the results of the Augmented Dickey-Fuller (ADF) test, it is evident that the p-value suggests non-stationarity. Consequently, the next step involves obtaining the natural logarithm and the first difference of the logarithm.
+
+![CBN BANK]
+
+
 
 
 

@@ -42,6 +42,37 @@ Observation: After scrutinizing the results of the Augmented Dickey-Fuller (ADF)
 
 Following the Augmented Dickey-Fuller (ADF) test for the initial difference of the logarithm, the p-value now indicates stationarity
 
+#### Forecasting Models: Begin the data modeling process by first assessing the correlogram, and the obtained result is as follows;
+
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/CORRELELOGRAM%20LAG.JPG)
+
+Presently, employing ARIMA with autoregressive (AR) and moving average (MA) parameters set at 2 each,After careful consideration, we arrived at this outcome, utilizing the initial difference of the logarithm as the dependent variable.
+
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/MODEL%20ON%20ARMA%20202.JPG)
+
+The Akaike Information Criterion (AIC) serves as a metric for assessing the goodness of fit in a model, striking a balance between model complexity and its alignment with the data. In model comparisons, a lower AIC signifies a superior trade-off between fit and complexity. Consequently, this model with the lowest AIC is typically favored.
+
+When fitting ARIMA models to time series data, the emphasis is placed on selecting the model with the lowest AIC. This approach ensures the identification of the most parsimonious model, one that effectively captures underlying patterns in the data without unnecessary complexity.
+
+####  Residual plot against CBN domestic Debt 
+
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/GRAPH%20RESIDUAL%20PLOT%20AGAINST%20CBN.JPG)
+
+#### Residual plot against Time
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/RESIDUAL%20PLOT%20AGAINST%20TIME.JPG)
+
+###### The conclusive methodology involves a ten-year forecast spanning from 2022 to 2031 for the Central Bank of Nigeria (CBN) Holdings of Federal Government's Domestic Debt Outstanding in billions, with the results outlined below.
+
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/10YEARS%20CBN%20FORECAST%202022%20-%202031.png)
+
+
+
+
+
+
+
+
+
 
 
 

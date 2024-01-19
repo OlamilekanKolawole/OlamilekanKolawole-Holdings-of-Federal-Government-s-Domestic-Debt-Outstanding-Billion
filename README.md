@@ -28,9 +28,13 @@ In the initial data preparation phase, we performed the following Tasks
 
 ### Exploratory Data Analysis (EDA)
 
-Initially, we obtained the time series plot depicted in the graph below.
+Initially, I obtained the time series plot depicted in the graph below.
 
-![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/Central-Bank-of-Nigeria.png)
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/FIRSGT%20CBN%20GRAPH%20CHECK.JPG)
+
+Step 2: I discovered the Augmented Dickey-Fuller (ADF) test.
+
+
 
 
 

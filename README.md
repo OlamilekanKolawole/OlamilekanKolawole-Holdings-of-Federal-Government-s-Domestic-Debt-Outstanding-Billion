@@ -38,7 +38,9 @@ Step 2: I discovered the Augmented Dickey-Fuller (ADF) test.
 
 Observation: After scrutinizing the results of the Augmented Dickey-Fuller (ADF) test, it is evident that the p-value suggests non-stationarity. Consequently, the next step involves obtaining the natural logarithm and the first difference of the logarithm.
 
-![CBN BANK]
+![CBN BANK](https://github.com/OlamilekanKolawole/OlamilekanKolawole-Holdings-of-Federal-Government-s-Domestic-Debt-Outstanding-Billion/blob/main/PVALUE%20STATIONARY.JPG)
+
+Following the Augmented Dickey-Fuller (ADF) test for the initial difference of the logarithm, the p-value now indicates stationarity
 
 
 
